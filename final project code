@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Travel Blog</title>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Travel Blog</h1>
+        <p>Exploring the world, one destination at a time.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Top Travel Destinations</h2>
+            <p>Here are some of the most breathtaking travel spots around the world:</p>
+            <ul>
+                <li>Paris, France – Home to the iconic Eiffel Tower</li>
+                <li>Kyoto, Japan – Famous for its cherry blossoms</li>
+                <li>Rome, Italy – Rich in ancient history and architecture</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Travel Highlights</h2>
+            <img src="paris.jpg" alt="Eiffel Tower in Paris at sunset" width="300">
+            <img src="kyoto.jpg" alt="Cherry blossoms in Kyoto" width="300">
+            <img src="rome.jpg" alt="Colosseum in Rome on a sunny day" width="300">
+        </section>
+
+        <section>
+            <h2>More Information</h2>
+            <p>To learn more about these places, visit 
+                <a href="https://www.lonelyplanet.com" target="_blank">Lonely Planet</a>.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 My Travel Blog</p>
+    </footer>
+
+</body>
+</html>
